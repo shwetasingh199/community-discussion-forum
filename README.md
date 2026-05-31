@@ -1,4 +1,4 @@
-# 💬 Community Discussion Forum with Real-Time Chat (Streamlit + MongoDB)
+# 💬 Community Discussion Forum with Real-Time Chat 
 
 A full-stack community platform built using **Streamlit, Python, and MongoDB**, featuring discussion forums, comments, likes, and real-time chat rooms.
 
