@@ -1,0 +1,6 @@
+streamlit
+pymongo
+bcrypt
+pyjwt
+python-dotenv
+streamlit-autorefresh
